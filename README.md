@@ -30,7 +30,7 @@ Allows adding, editing, deleting, and searching books in the system.
 1. Clone the repository:
 ```bash
 git clone https://github.com/Pashokkkk/library-database.git
-
+```
 2. Open the .sln file in Visual Studio.
 
 3. Make sure to set up your local database:
